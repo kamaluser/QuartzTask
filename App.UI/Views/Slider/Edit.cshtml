@@ -1,0 +1,76 @@
+﻿@model SliderEditRequest
+
+
+@{
+    ViewData["Title"] = "Edit Slider";
+}
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Sliders</h1>
+        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
+            Edit
+        </a>
+    </div>
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <form class="user" asp-action="edit" enctype="multipart/form-data" method="post">
+                <div class="form-group">
+                    <label for="titleInput">Title</label>
+                    <input asp-for="Title" class="form-control" id="titleInput" placeholder="Enter Title here..">
+                    <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+                <div class="form-group">
+                    <label for="descInput">Desc</label>
+                    <input asp-for="Desc" class="form-control" id="descInput" placeholder="Enter Desc here..">
+                    <span class="text-danger" asp-validation-for="Desc"></span>
+                </div>
+                <div class="form-group">
+                    <label for="orderInput">Order</label>
+                    <input asp-for="Order" class="form-control" id="orderInput">
+                    <span class="text-danger" asp-validation-for="Order"></span>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-12">
+                        <label asp-for="ImageFile" class="control-label"></label>
+                        <input asp-for="ImageFile" class="form-control-file" type="file" />
+                        <span asp-validation-for="ImageFile" class="text-danger"></span>
+                    </div>
+                </div>
+                <img id="imagePreview" src="@Model.ImageUrl" style="max-width: 200px; max-height: 200px;" />
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <br /><br />
+                <button class="btn btn-primary" type="submit">
+                    Edit Slider
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    @Html.Partial("_ValidationScriptsPartial");
+
+
+    <script>
+        $(document).ready(function () {
+            $('#ImageFile').change(function () {
+                previewImage(this);
+            });
+        });
+
+        function previewImage(input) {
+            var file = input.files[0];
+            if (file) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $('#imagePreview').attr('src', e.target.result);
+                }
+                reader.readAsDataURL(file);
+            }
+        }
+    </script>
+}

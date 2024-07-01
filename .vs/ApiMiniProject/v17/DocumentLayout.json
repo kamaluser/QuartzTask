@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D8322-40D6-4766-870F-2B3AABA09A3F}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\service\\helpers\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D8322-40D6-4766-870F-2B3AABA09A3F}|Service\\Service.csproj|solutionrelative:service\\helpers\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\apiproject\\jobs\\senddailyemailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\jobs\\senddailyemailjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00890122-596F-4C75-A866-05AE1B2FE5A7}|Core\\Core.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\core\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00890122-596F-4C75-A866-05AE1B2FE5A7}|Core\\Core.csproj|solutionrelative:core\\entities\\flower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463157D3-EE6A-4118-BAD6-1EDFD7F64ED7}|Data\\Data.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\data\\repositories\\implementations\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463157D3-EE6A-4118-BAD6-1EDFD7F64ED7}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\flowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463157D3-EE6A-4118-BAD6-1EDFD7F64ED7}|Data\\Data.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\data\\repositories\\interfaces\\iflowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463157D3-EE6A-4118-BAD6-1EDFD7F64ED7}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\iflowerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B8BA06-CE9A-4341-BB97-CDA281EE9816}|App.UI\\App.UI.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\app.ui\\views\\flower\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92B8BA06-CE9A-4341-BB97-CDA281EE9816}|App.UI\\App.UI.csproj|solutionrelative:app.ui\\views\\flower\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D8322-40D6-4766-870F-2B3AABA09A3F}|Service\\Service.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\service\\services\\implementations\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D8322-40D6-4766-870F-2B3AABA09A3F}|Service\\Service.csproj|solutionrelative:service\\services\\implementations\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B8BA06-CE9A-4341-BB97-CDA281EE9816}|App.UI\\App.UI.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\app.ui\\models\\flowercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B8BA06-CE9A-4341-BB97-CDA281EE9816}|App.UI\\App.UI.csproj|solutionrelative:app.ui\\models\\flowercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B8BA06-CE9A-4341-BB97-CDA281EE9816}|App.UI\\App.UI.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\app.ui\\models\\flowereditrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B8BA06-CE9A-4341-BB97-CDA281EE9816}|App.UI\\App.UI.csproj|solutionrelative:app.ui\\models\\flowereditrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\apiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\apiproject\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|c:\\users\\kamal\\desktop\\apiminiproject\\apiproject\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9829C358-91D6-438B-9235-7B5CCE8FEFFD}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\flowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Program.cs",
+              "RelativeToolTip": "ApiProject\\Program.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAADwv3wAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:45:09.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SendDailyEmailJob.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Jobs\\SendDailyEmailJob.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Jobs\\SendDailyEmailJob.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Jobs\\SendDailyEmailJob.cs",
+              "RelativeToolTip": "ApiProject\\Jobs\\SendDailyEmailJob.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:32:35.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flower.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Core\\Entities\\Flower.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Flower.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Core\\Entities\\Flower.cs",
+              "RelativeToolTip": "Core\\Entities\\Flower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:28:06.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Data\\Repositories\\Implementations\\FlowerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\FlowerRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Data\\Repositories\\Implementations\\FlowerRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementations\\FlowerRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvw8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:26:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFlowerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Data\\Repositories\\Interfaces\\IFlowerRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IFlowerRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Data\\Repositories\\Interfaces\\IFlowerRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Interfaces\\IFlowerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:25:50.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\appsettings.json",
+              "RelativeToolTip": "ApiProject\\appsettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T22:22:19.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Service\\Helpers\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Service\\Helpers\\EmailSender.cs",
+              "RelativeToolTip": "Service\\Helpers\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:19:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\App.UI\\Views\\Flower\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App.UI\\Views\\Flower\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\App.UI\\Views\\Flower\\Edit.cshtml",
+              "RelativeToolTip": "App.UI\\Views\\Flower\\Edit.cshtml",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwv5MAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:41:00.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlowerEditRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\App.UI\\Models\\FlowerEditRequest.cs",
+              "RelativeDocumentMoniker": "App.UI\\Models\\FlowerEditRequest.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\App.UI\\Models\\FlowerEditRequest.cs",
+              "RelativeToolTip": "App.UI\\Models\\FlowerEditRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:24:15.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlowerCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\App.UI\\Models\\FlowerCreateRequest.cs",
+              "RelativeDocumentMoniker": "App.UI\\Models\\FlowerCreateRequest.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\App.UI\\Models\\FlowerCreateRequest.cs",
+              "RelativeToolTip": "App.UI\\Models\\FlowerCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:23:59.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\SlidersController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA0wB0AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:04:40.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlowersController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Controllers\\FlowersController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\FlowersController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Controllers\\FlowersController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\FlowersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wBwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:04:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:02:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Service\\Services\\Implementations\\SliderService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Implementations\\SliderService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\Service\\Services\\Implementations\\SliderService.cs",
+              "RelativeToolTip": "Service\\Services\\Implementations\\SliderService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAlwEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:37:56.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

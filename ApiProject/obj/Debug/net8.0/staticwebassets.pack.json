@@ -1,0 +1,253 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\10fe51f3-7f35-4ff8-8bf9-8b10d8f6276e_teacher4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\10fe51f3-7f35-4ff8-8bf9-8b10d8f6276e_teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\23c735e4-a992-4e67-a5d9-1ede84868da6_teacher8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\23c735e4-a992-4e67-a5d9-1ede84868da6_teacher8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\28cbdaed-8a81-4d19-a02c-925fc254d4ef_teacher4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\28cbdaed-8a81-4d19-a02c-925fc254d4ef_teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\490f8772-dd5f-4fb3-82c4-8f1177db33ca_teacher1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\490f8772-dd5f-4fb3-82c4-8f1177db33ca_teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\4ed75c1a-05a6-401b-8617-8ad160175e6e_teacher11.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\4ed75c1a-05a6-401b-8617-8ad160175e6e_teacher11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\51242e68-1e3e-4916-ba2a-612bb1af6ea6_teacher5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\51242e68-1e3e-4916-ba2a-612bb1af6ea6_teacher5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\5139ae7f-1c56-49b1-bde6-efe7699ef41f_teacher5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\5139ae7f-1c56-49b1-bde6-efe7699ef41f_teacher5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\52465c3c-d1f4-45f9-af87-9344f0dc2372_teacher2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\52465c3c-d1f4-45f9-af87-9344f0dc2372_teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\53e8f741-a259-4245-9800-846aa290b821_teacher5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\53e8f741-a259-4245-9800-846aa290b821_teacher5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\59099eb2-ac83-4b04-83bf-984b78e512d9_teacher6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\59099eb2-ac83-4b04-83bf-984b78e512d9_teacher6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\5d49f257-0ae0-473b-b0aa-654e75f8bad8_teacher12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\5d49f257-0ae0-473b-b0aa-654e75f8bad8_teacher12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\66754839-a23e-4acb-b72e-aefadfd2a7a2_teacher-details.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\66754839-a23e-4acb-b72e-aefadfd2a7a2_teacher-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\669a34ba-fddc-4d5e-8936-d4f9f19bc7ff_teacher1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\669a34ba-fddc-4d5e-8936-d4f9f19bc7ff_teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\67a0f9cc-6339-4549-aaa9-5f4ac13dbce5_teacher3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\67a0f9cc-6339-4549-aaa9-5f4ac13dbce5_teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\6b0b3a4c-0d95-436a-be1b-3a905f4b838d_teacher9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\6b0b3a4c-0d95-436a-be1b-3a905f4b838d_teacher9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\6cb558ef-358c-4be2-bdb0-d51f97e63a74_teacher9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\6cb558ef-358c-4be2-bdb0-d51f97e63a74_teacher9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\6ebf3ec7-5f44-4cf0-8d01-5d9d6122b384_teacher12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\6ebf3ec7-5f44-4cf0-8d01-5d9d6122b384_teacher12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\746c9c59-fa28-4c03-a45a-97f80a53460b_teacher8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\746c9c59-fa28-4c03-a45a-97f80a53460b_teacher8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\7bc064db-85af-49af-ab06-6f360587b5db_teacher2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\7bc064db-85af-49af-ab06-6f360587b5db_teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\8038a9e2-d1dd-4b74-bb23-1730f397c8dc_teacher6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\8038a9e2-d1dd-4b74-bb23-1730f397c8dc_teacher6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\86103a66-8162-4627-87fa-4df19e6a8af7_teacher7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\86103a66-8162-4627-87fa-4df19e6a8af7_teacher7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\8ab8735a-2625-458e-9b99-a3bb0f02b63c_teacher4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\8ab8735a-2625-458e-9b99-a3bb0f02b63c_teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\8f0694ab-dc17-4d4c-82a4-7c4b5231d509_teacher4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\8f0694ab-dc17-4d4c-82a4-7c4b5231d509_teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\b4fc3ba8-4a5b-48bc-a8a3-f5123b866eb1_teacher2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\b4fc3ba8-4a5b-48bc-a8a3-f5123b866eb1_teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\c14e107d-2b40-42eb-a03e-1df49b537c01_teacher10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\c14e107d-2b40-42eb-a03e-1df49b537c01_teacher10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\c171e46a-533a-4dec-823d-f275c9b86d2b_teacher9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\c171e46a-533a-4dec-823d-f275c9b86d2b_teacher9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\c5a8b24a-5781-48fa-8850-0ad54f60099e_teacher1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\c5a8b24a-5781-48fa-8850-0ad54f60099e_teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\cad03063-dc6a-46aa-8135-ea6182226fd4_teacher4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\cad03063-dc6a-46aa-8135-ea6182226fd4_teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\cc457cf7-0893-439a-ab16-e5eb918c0213_teacher11.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\cc457cf7-0893-439a-ab16-e5eb918c0213_teacher11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\ce17f58b-b21e-4848-945f-df25db97982f_teacher3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\ce17f58b-b21e-4848-945f-df25db97982f_teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\d1245607-84ff-46b4-b2ae-6d0ad0b00a0f_teacher7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\d1245607-84ff-46b4-b2ae-6d0ad0b00a0f_teacher7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\d19c5eb1-d155-438d-88d0-d5fab0cccc63_teacher1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\d19c5eb1-d155-438d-88d0-d5fab0cccc63_teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\dd5413c4-aaa4-4d3a-8bd9-89e2c3394291_teacher2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\dd5413c4-aaa4-4d3a-8bd9-89e2c3394291_teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\e3ceaee5-52a3-4df3-94dd-a76bc67bda4b_teacher4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\e3ceaee5-52a3-4df3-94dd-a76bc67bda4b_teacher4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\e8deb5be-90a0-47b7-b81a-fcc43ef08d40_teacher7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\e8deb5be-90a0-47b7-b81a-fcc43ef08d40_teacher7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\ed5ed69e-542a-4a60-9185-a30701a6fbea_teacher7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\ed5ed69e-542a-4a60-9185-a30701a6fbea_teacher7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\ee2714e6-a678-4a57-b300-f942d42f8517_teacher12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\ee2714e6-a678-4a57-b300-f942d42f8517_teacher12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\fc1cb026-4a03-491a-8688-80e5a3d66b84_teacher8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\fc1cb026-4a03-491a-8688-80e5a3d66b84_teacher8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\photos\\feb3edc2-a80f-4cf2-8a5d-66a12eaf9716_teacher3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photos\\feb3edc2-a80f-4cf2-8a5d-66a12eaf9716_teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\1b7f3878-1dda-430b-8ea5-2c0fbf991ef0_teacher12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\1b7f3878-1dda-430b-8ea5-2c0fbf991ef0_teacher12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\27fda132-ade6-4737-ba74-777f2946d819_teacher1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\27fda132-ade6-4737-ba74-777f2946d819_teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\281be169-3a1f-4b9e-b5d1-47eb8f639008_teacher5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\281be169-3a1f-4b9e-b5d1-47eb8f639008_teacher5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\403b76c2-cd30-4bb9-bbc3-c5cfeac66974_teacher2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\403b76c2-cd30-4bb9-bbc3-c5cfeac66974_teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\497ffd81-0295-4c16-a3fa-572c19aaa64a_teacher1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\497ffd81-0295-4c16-a3fa-572c19aaa64a_teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\54e59ef9-0fea-40bb-8426-c795d26fef0c_teacher8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\54e59ef9-0fea-40bb-8426-c795d26fef0c_teacher8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\5dd8e542-8d28-4d76-8e8e-0aaa432a9c62_teacher2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\5dd8e542-8d28-4d76-8e8e-0aaa432a9c62_teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\6bf7499d-045e-4dfb-a0a4-b5a449bca48d_teacher1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\6bf7499d-045e-4dfb-a0a4-b5a449bca48d_teacher1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\75eae9b6-e0ab-4fc4-97af-fd33f6df82ef_teacher3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\75eae9b6-e0ab-4fc4-97af-fd33f6df82ef_teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\7f51dd7e-3899-4399-a4e4-b585629313ac_teacher7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\7f51dd7e-3899-4399-a4e4-b585629313ac_teacher7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\8bf68787-7208-4cb8-a09a-1cf2751396bb_teacher2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\8bf68787-7208-4cb8-a09a-1cf2751396bb_teacher2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\9207a217-28ee-4dcc-843d-d76c3e6feeb8_teacher3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\9207a217-28ee-4dcc-843d-d76c3e6feeb8_teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\a6d74b7f-a183-4338-8485-9aa48b7210b9_teacher8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\a6d74b7f-a183-4338-8485-9aa48b7210b9_teacher8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\c13bc8cd-efab-4ade-b803-1b3dc6c30651_teacher-details.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\c13bc8cd-efab-4ade-b803-1b3dc6c30651_teacher-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\c434c443-3073-413e-9ea7-c133a908b865_teacher6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\c434c443-3073-413e-9ea7-c133a908b865_teacher6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\c8551aa1-205b-4026-9b1f-6411e8ad93c8_teacher3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\c8551aa1-205b-4026-9b1f-6411e8ad93c8_teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\eacebf03-6191-4739-b019-aca3b6b5cb1b_teacher3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\eacebf03-6191-4739-b019-aca3b6b5cb1b_teacher3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\f9ed5112-2f00-4738-9d9d-006988400ba6_ExceptionHandlerMiddleware.cs",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\f9ed5112-2f00-4738-9d9d-006988400ba6_ExceptionHandlerMiddleware.cs"
+    },
+    {
+      "Id": "C:\\Users\\kamal\\Desktop\\ApiMiniProject\\ApiProject\\wwwroot\\uploads\\sliders\\fea91039-b864-40b2-9c52-93ccba5f2724_ExceptionHandlerMiddleware.cs",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\fea91039-b864-40b2-9c52-93ccba5f2724_ExceptionHandlerMiddleware.cs"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiProject.props",
+      "PackagePath": "build\\ApiProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiProject.props",
+      "PackagePath": "buildMultiTargeting\\ApiProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiProject.props",
+      "PackagePath": "buildTransitive\\ApiProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

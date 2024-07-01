@@ -1,0 +1,165 @@
+﻿@model FlowerEditRequest
+
+@{
+    ViewData["Title"] = "Edit Flower";
+}
+
+<style>
+    .img-box {
+        margin-right: 10px;
+        margin-bottom: 10px;
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+        border-radius: 5px;
+    }
+
+        .img-box img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            border-bottom: 1px solid #ddd;
+        }
+
+    .remove-img-icon {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        cursor: pointer;
+        color: white;
+        font-weight: bold;
+        font-size: 18px;
+        background-color: rgba(255, 0, 0, 0.7);
+        padding: 5px 10px;
+        border-radius: 0 0 0 5px;
+        transition: background-color 0.3s;
+    }
+
+        .remove-img-icon:hover {
+            background-color: rgba(255, 0, 0, 1);
+        }
+
+    .preview-box {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+</style>
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Flowers</h1>
+        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
+            Edit
+        </a>
+    </div>
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <form class="user" asp-action="edit" enctype="multipart/form-data" method="post">
+                <div class="form-group">
+                    <label for="nameInput">Name</label>
+                    <input asp-for="Name" class="form-control" id="nameInput" placeholder="Enter Name here..">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label for="descInput">Description</label>
+                    <input asp-for="Desc" class="form-control" id="descInput" placeholder="Enter Description here..">
+                    <span class="text-danger" asp-validation-for="Desc"></span>
+                </div>
+                <div class="form-group">
+                    <label for="priceInput">Price</label>
+                    <input asp-for="Price" class="form-control" id="priceInput">
+                    <span class="text-danger" asp-validation-for="Price"></span>
+                </div>
+                <div class="form-group">
+                    <label for="categoriesInput">Categories</label>
+                    <select asp-for="CategoryIds" asp-items="@(new SelectList(ViewBag.Categories, "Id", "Name"))" multiple class="form-control"></select>
+                    <span class="text-danger" asp-validation-for="CategoryIds"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NewPhotos" class="control-label"></label>
+                    <input asp-for="NewPhotos" class="form-control-file imgInput" type="file" multiple />
+                    <span asp-validation-for="NewPhotos" class="text-danger"></span>
+                </div>
+                <div class="preview-box"></div>
+
+                @if (ViewBag.Photos != null)
+                {
+                    foreach (PhotoGetResponse item in ViewBag.Photos)
+                    {
+                        <div class="img-box" style="display:inline-block;position:relative">
+                            <span class="remove-img-icon" data-photo-id="@item.Id">x</span>
+                            <img width="200" src="@item.Name" />
+                        </div>
+                    }
+                }
+                <br />
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <button class="btn btn-primary" type="submit">
+                    Edit Flower
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    @Html.Partial("_ValidationScriptsPartial");
+
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            function previewPhotos(event) {
+                var files = event.target.files;
+                var preview = document.querySelector('.preview-box');
+                for (var i = 0; i < files.length; i++) {
+                    var file = files[i];
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        var imgBox = document.createElement('div');
+                        imgBox.classList.add('img-box');
+
+                        var removeIcon = document.createElement('span');
+                        removeIcon.classList.add('remove-img-icon');
+                        removeIcon.textContent = 'x';
+                        removeIcon.onclick = function () {
+                            imgBox.remove();
+                        };
+
+                        var img = document.createElement('img');
+                        img.src = e.target.result;
+                        img.style.width = '200px';
+                        imgBox.appendChild(img);
+                        imgBox.appendChild(removeIcon);
+                        preview.appendChild(imgBox);
+                    }
+                    reader.readAsDataURL(file);
+                }
+            }
+
+            var photosInput = document.querySelector('.imgInput');
+            if (photosInput) {
+                photosInput.addEventListener('change', previewPhotos);
+            }
+
+            document.addEventListener('click', function (event) {
+                if (event.target.classList.contains('remove-img-icon')) {
+                    var imgBox = event.target.closest('.img-box');
+                    if (imgBox.parentElement === document.querySelector('.preview-box')) {
+                        imgBox.remove();
+                    } else {
+                        var photoId = event.target.getAttribute('data-photo-id');
+                        var input = document.createElement('input');
+                        input.type = 'hidden';
+                        input.name = 'RemovingPhotosIds';
+                        input.value = photoId;
+                        event.target.closest('form').appendChild(input);
+                        imgBox.remove();
+                    }
+                }
+            });
+        });
+    </script>
+}
